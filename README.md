@@ -2,7 +2,7 @@
 
 A machine learning-based risk assessment tool that predicts whether a patient is likely to have diabetes based on common medical measurements. It uses a Support Vector Machine (SVM) model, chosen after comparing it with Random Forest, and is deployed as an interactive web app with Streamlit.
 
-**Live demo:** Add your Streamlit app link here
+**Live demo:** https://diabetes-prediction-011.streamlit.app/
 
 > ⚠️ **Disclaimer:** This project is for educational purposes only. It is not a medical device and is not a substitute for professional medical advice, diagnosis, or treatment.
 
